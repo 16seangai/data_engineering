@@ -1,0 +1,7 @@
+*.DS_Store
+src/docker/ny_taxi_postgres_data/*
+src/airflow/dags/__pycache__/*
+src/airflow/logs/*
+src/docker/.ipynb_checkpoints/*
+src/terraform_gcp/terraform/.terraform*
+src/terraform_gcp/terraform/terraform.tfstate*
